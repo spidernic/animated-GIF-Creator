@@ -1,7 +1,7 @@
 # Animated GIF Creator from Image Folder
 ## Author Information
 - **Author**: Nic Cravino
-- **Email**: spidernic@me.com / ncravino@mac.com
+- **Email**: spidernic@me.com 
 - **LinkedIn**: [Nic Cravino](https://www.linkedin.com/in/nic-cravino)
 - **Date**: NOvember 16, 2024
 
